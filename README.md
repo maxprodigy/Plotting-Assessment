@@ -8,17 +8,16 @@ The dataset used for this analysis is the fuel_econ dataset, which contains vehi
 
 # Methodology:
 
-# Data cleaning and preprocessing: 
+Data cleaning and preprocessing: 
 Handling missing values, outliers, and converting data types as needed.
-# Exploratory data analysis: 
+Exploratory data analysis: 
 I am using visualizations and summary statistics to understand the data distribution.+
-# Model building and evaluation: 
+Model building and evaluation: 
 Training and evaluating various machine learning models to predict fuel efficiency or carbon emissions.
 
 # Tools and Technologies:
-Python
-pandas
-NumPy
-scikit-learn
-Matplotlib
-Seaborn
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
